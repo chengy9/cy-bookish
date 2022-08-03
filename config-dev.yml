@@ -1,0 +1,2 @@
+config: 
+  inio: "master branch,cy-bookish,version-dev"
