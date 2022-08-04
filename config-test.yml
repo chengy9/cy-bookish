@@ -1,2 +1,2 @@
 config: 
-  inio: "master branch,cy-bookish,version-test"
+  info: "master branch,cy-bookish,version-test, version = 1"
